@@ -10,6 +10,8 @@ https://github.com/SonarSource/docker-sonarqube/blob/master/example-compose-file
 
 git clone 
 
+Criar os seguintes diretorios dentro do diretorio (sonar), data e extensions
+
 ## Instalando o Docker 
 
 Lembrando que após a instalação precisa da um start no docker
