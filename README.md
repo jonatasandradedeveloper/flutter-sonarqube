@@ -28,7 +28,7 @@ https://docs.docker.com/desktop/install/windows-install/
 
 https://docs.docker.com/desktop/install/linux-install/
 
-Rode o comando no seu terminal dentro do diretorio sonar/ e aguarde ele subir a imagem do SonarQube
+Rode o comando no seu terminal e aguarde ele subir a imagem do SonarQube
 
 ## docker-compose up
 
